@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Display_billboard_noVuforia.unity
+- path: Assets/Scenes/Display_billboard_withVuforia.unity
   isLoaded: 1
   isActive: 1

@@ -6,9 +6,10 @@ public class TweetSearchTwitterData {
 	public string tweetText = "";
     public string tweetTime = "";
     public string tweetUser = "";
+    public string tweetTopic = "";
 
 
     public override string ToString(){
-        return "User " + tweetUser + " tweeted: " + "\"" + tweetText + "\". \n" + tweetTime;
+        return tweetTopic + "*" + "User " + tweetUser + " tweeted: " + "\"" + tweetText + "\". \n" + tweetTime;
     }
 }

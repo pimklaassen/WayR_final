@@ -28,20 +28,41 @@ public class TwitterClickHandler : MonoBehaviour
 
     public void OnClick()
     {
-            switch (EventSystem.current.currentSelectedGameObject.tag)
-            {
-                case "trump":
-                    updateButtons(Main.alltweets[0]);
-                    break;
-                case "tagesanzeiger":
-                    updateButtons(Main.alltweets[1]);
-                    break;
-                case "sbb":
-                    updateButtons(Main.alltweets[2]);
-                    break;
-                case "reuters":
-                    updateButtons(Main.alltweets[3]);
-                    break;
+        List<string> switchList = new List<string>();
+        switch (EventSystem.current.currentSelectedGameObject.tag)
+        {
+            case "trump":
+                foreach(List<string> tweets in Main.alltweets)
+                {
+                    string[] parts = tweets[1].Split('*');
+                    if(parts[0] == "gislab")
+                        updateButtons(tweets);
+                }
+                break;
+            case "tagesanzeiger":
+                foreach (List<string> tweets in Main.alltweets)
+                {
+                    string[] parts = tweets[1].Split('*');
+                    if (parts[0] == "tagesanzeiger")
+                        updateButtons(tweets);
+                }
+                break;
+            case "sbb":
+                foreach (List<string> tweets in Main.alltweets)
+                {
+                    string[] parts = tweets[1].Split('*');
+                    if (parts[0] == "railinfo_sbb")
+                        updateButtons(tweets);
+                }
+                break;
+            case "reuters":
+                foreach (List<string> tweets in Main.alltweets)
+                {
+                    string[] parts = tweets[1].Split('*');
+                    if (parts[0] == "reutersworld")
+                        updateButtons(tweets);
+                }
+                break;
         }
     }
 
@@ -53,7 +74,8 @@ public class TwitterClickHandler : MonoBehaviour
             if (i < alltweets.Count)
             {
                 tweetbuttonlist[i].SetActive(true);
-                string[] parts = alltweets[i].Split('"');
+                string[] helper = alltweets[i].Split('*');
+                string[] parts = helper[1].Split('"');
 
                 Text text = tweetbuttonlist[i].transform.GetChild(0).GetComponent<Text>();
                 Text textclone = tweetbuttonlist[i].transform.GetChild(1).GetComponent<Text>(); ;

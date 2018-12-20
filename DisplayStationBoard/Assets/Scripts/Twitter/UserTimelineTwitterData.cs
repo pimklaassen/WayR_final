@@ -6,8 +6,9 @@ public class UserTimelineTwitterData
 {
 	public string tweetText = "";
 	public string tweetTime = "";
+    public string tweetTopic = "";
 	
 	public override string ToString(){
-		return "\"" + tweetText + "\". \n" + tweetTime;
+		return tweetTopic + "*"+"\"" + tweetText + "\". \n" + tweetTime;
 	}
 }

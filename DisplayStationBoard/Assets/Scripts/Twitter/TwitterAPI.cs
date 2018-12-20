@@ -64,11 +64,11 @@ public class TwitterAPI : MonoBehaviour {
         WWW query = CreateTwitterAPIQuery(twitterUrl, twitterParamsDictionary);
         yield return query;
 
-        callback(ParseResultsFromUserTimelineTwitter(query.text));
+        callback(ParseResultsFromUserTimelineTwitter(query.text, twitterUser));
     }
 
     // Use of MINI JSON http://forum.unity3d.com/threads/35484-MiniJSON-script-for-parsing-JSON-data
-    private List<UserTimelineTwitterData> ParseResultsFromUserTimelineTwitter(string jsonResults)
+    private List<UserTimelineTwitterData> ParseResultsFromUserTimelineTwitter(string jsonResults, string topic)
     {
         Debug.Log(jsonResults);
 
@@ -81,6 +81,7 @@ public class TwitterAPI : MonoBehaviour {
             twitterData.tweetText = tweet["full_text"] as string;
             string tweetTime = tweet["created_at"] as string;
             twitterData.tweetTime = tweetTime.Substring(0, 20);
+            twitterData.tweetTopic = topic;
 
             twitterDataList.Add(twitterData);
         }
@@ -117,11 +118,11 @@ public class TwitterAPI : MonoBehaviour {
         WWW query = CreateTwitterAPIQuery(twitterUrl, twitterParamsDictionary);
         yield return query;
 
-        callback(ParseResultsFromSearchTwitter(query.text));
+        callback(ParseResultsFromSearchTwitter(query.text, keywords));
     }
 
     // Use of MINI JSON http://forum.unity3d.com/threads/35484-MiniJSON-script-for-parsing-JSON-data
-    private List<TweetSearchTwitterData> ParseResultsFromSearchTwitter(string jsonResults)
+    private List<TweetSearchTwitterData> ParseResultsFromSearchTwitter(string jsonResults, string topic)
     {
         Debug.Log(jsonResults);
 
@@ -138,6 +139,8 @@ public class TwitterAPI : MonoBehaviour {
             twitterData.tweetText = tweet["full_text"] as string;
             string tweetTime = tweet["created_at"] as string;
             twitterData.tweetTime = tweetTime.Substring(0, 20);
+            twitterData.tweetTopic = topic;
+
 
             twitterDataList.Add(twitterData);
         }
