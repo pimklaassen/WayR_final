@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f66aeec1-54f5-4397-9d56-7a15314a192b</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\DisplayStationBoard.exe">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\DisplayStationBoard.exe">
       <PackagePath>entrypoint\DisplayStationBoard.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dindc\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -349,7 +349,7 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
@@ -373,334 +373,334 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Resource.res">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Resource.res">
       <PackagePath>Resource.res</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\GISLab.xml">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\GISLab.xml">
       <PackagePath>Data\StreamingAssets\GISLab.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\Vuforia\GISLab.xml">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\Vuforia\GISLab.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\GISLab.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\PlaneFinding.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\PlaneFinding.dll">
       <PackagePath>PlaneFinding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\MicStreamSelector.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\MicStreamSelector.dll">
       <PackagePath>MicStreamSelector.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\GpuTiming.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\GpuTiming.dll">
       <PackagePath>GpuTiming.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\SharingClient.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\SharingClient.dll">
       <PackagePath>SharingClient.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\VuforiaWrapper.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\VuforiaWrapper.dll">
       <PackagePath>VuforiaWrapper.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\SpatialUnderstanding.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\SpatialUnderstanding.dll">
       <PackagePath>SpatialUnderstanding.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Vuforia.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Vuforia.dll">
       <PackagePath>Vuforia.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\boot.config">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\globalgamemanagers">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level0">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level0">
       <PackagePath>Data\level0</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level1">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level1">
       <PackagePath>Data\level1</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level2">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level2">
       <PackagePath>Data\level2</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\resources.assets">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets1.assets">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets1.assets">
       <PackagePath>Data\sharedassets1.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets2.assets">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets2.assets">
       <PackagePath>Data\sharedassets2.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level2.resS">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\level2.resS">
       <PackagePath>Data\level2.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\resources.assets.resS">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets1.assets.resS">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets1.assets.resS">
       <PackagePath>Data\sharedassets1.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets2.assets.resS">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\sharedassets2.assets.resS">
       <PackagePath>Data\sharedassets2.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\nativePlugins.txt">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\BluePlanetTrailer.mp4">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\BluePlanetTrailer.mp4">
       <PackagePath>Data\StreamingAssets\BluePlanetTrailer.mp4</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\HololensTrailer.MP4">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\HololensTrailer.MP4">
       <PackagePath>Data\StreamingAssets\HololensTrailer.MP4</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\ZurichAd.MP4">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\ZurichAd.MP4">
       <PackagePath>Data\StreamingAssets\ZurichAd.MP4</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\GISLab.dat">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\GISLab.dat">
       <PackagePath>Data\StreamingAssets\GISLab.dat</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\Vuforia\GISLab.dat">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Data\StreamingAssets\Vuforia\GISLab.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\GISLab.dat</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TerrainPhysicsModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TextRenderingModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TilemapModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UIElementsModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TerrainModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SharedInternalsModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SpriteMaskModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SpriteShapeModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.StyleSheetsModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UIModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.VehiclesModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.VideoModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.VRModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.WebModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.WindModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestWWWModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UNETModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityAnalyticsModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityConnectModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestAudioModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestTextureModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ScreenCaptureModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ARModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AssetBundleModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AudioModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ClothModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.CoreModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.CrashReportingModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AnimationModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AccessibilityModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AIModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.DirectorModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ParticlesLegacyModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ParticleSystemModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.PerformanceReportingModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Physics2DModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.PhysicsModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.JSONSerializeModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.GameCenterModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.GridModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ImageConversionModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.IMGUIModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.InputModule.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Timeline.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\nunit.framework.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SpatialTracking.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Analytics.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Vuforia.UnityExtensions.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Vuforia.UnityExtensions.dll">
       <PackagePath>Vuforia.UnityExtensions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.StandardEvents.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\GLTFSerializationUWP.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\Core\DisplayStationBoard.exe">
+    <AppxPackagedFile Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\DisplayStationBoard\bin\x86\Release\Core\DisplayStationBoard.exe">
       <PackagePath>DisplayStationBoard.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

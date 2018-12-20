@@ -1,0 +1,26 @@
+Data\boot.config
+Data\globalgamemanagers
+Data\globalgamemanagers.assets
+Data\level0
+Data\level1
+Data\level2
+Data\level2.resS
+Data\managedAssemblies.txt
+Data\nativePlugins.txt
+Data\resources.assets
+Data\resources.assets.resS
+Data\Resources\unity default resources
+Data\Resources\unity_builtin_extra
+Data\sharedassets0.assets
+Data\sharedassets0.assets.resS
+Data\sharedassets1.assets
+Data\sharedassets1.assets.resS
+Data\sharedassets2.assets
+Data\sharedassets2.assets.resS
+Data\StreamingAssets\BluePlanetTrailer.mp4
+Data\StreamingAssets\GISLab.dat
+Data\StreamingAssets\GISLab.xml
+Data\StreamingAssets\HololensTrailer.MP4
+Data\StreamingAssets\Vuforia\GISLab.dat
+Data\StreamingAssets\Vuforia\GISLab.xml
+Data\StreamingAssets\ZurichAd.MP4

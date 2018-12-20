@@ -380,7 +380,7 @@
 
   <ItemGroup>
     <ProjectReference Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{001b685f-9875-4236-9c36-c76bf23d4ac0}</Project>
+      <Project>{29041bdf-55c4-4645-bfbb-86ce9ebb83ee}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

@@ -35,7 +35,7 @@ public class DepartureWarning : MonoBehaviour {
             warningMinutes = departureTime.Subtract(DateTime.Now);
             int countMinutes = warningMinutes.Days * 24 * 60 + warningMinutes.Hours * 60 + warningMinutes.Minutes +1;
             
-            if (countMinutes < 0)
+            if (countMinutes <= 0)
             {
                 if (warningText.activeSelf == true)
                     warningText.SetActive(false);

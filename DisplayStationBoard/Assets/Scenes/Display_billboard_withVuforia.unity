@@ -1079,18 +1079,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4456064097990346, guid: ad17b0b74412f49479b99c659e9ec644,
     type: 2}
   m_PrefabInternal: {fileID: 1106712601}
---- !u!114 &1410868337
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1410868333}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbbfb63aa5028e44a8c852f1983c1d1c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  warningText: {fileID: 1410868333}
 --- !u!21 &1555177442
 Material:
   serializedVersion: 6
