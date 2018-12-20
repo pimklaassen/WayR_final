@@ -1,10 +1,10 @@
 Metro
 PlayerPath?
-D:/dindc/WayR/DisplayStationBoard/App_withVuforia
+D:/dindc/WayR_final/DisplayStationBoard/App_noVuforia
 SceneListBegin?
 Assets/Scenes/0-Splash.unity
 Assets/Scenes/1-Loading.unity
-Assets/Scenes/Display_billboard_withVuforia.unity
+Assets/Scenes/Display_billboard_noVuforia.unity
 SceneListEnd?
 7abde016883951c4ca4e7c44ce6adb2c Assembly-CSharp.dll:HoloToolkit.Unity.SceneLauncher
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.UX.BoundingBoxGizmoHandle

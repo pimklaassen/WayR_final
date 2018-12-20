@@ -379,8 +379,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="D:\dindc\WayR\DisplayStationBoard\App_withVuforia\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{29041bdf-55c4-4645-bfbb-86ce9ebb83ee}</Project>
+    <ProjectReference Include="D:\dindc\WayR_final\DisplayStationBoard\App_withVuforia\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{0786367a-c0d8-4270-afa9-10ea07096290}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

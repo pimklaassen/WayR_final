@@ -20,9 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Display_billboard_noVuforia.unity
     guid: 5accda09f2e41eb4dbf4f949a39bd07e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Display_billboard_withVuforia.unity
     guid: b013d1701b2d5134e816dd1fa67200fb
