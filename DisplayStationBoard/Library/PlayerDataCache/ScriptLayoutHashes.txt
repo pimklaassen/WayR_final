@@ -1,6 +1,6 @@
 Metro
 PlayerPath?
-D:/dindc/WayR_final/DisplayStationBoard/App_noVuforia
+D:/dindc/WayR_final/DisplayStationBoard/App_NoVuforia
 SceneListBegin?
 Assets/Scenes/0-Splash.unity
 Assets/Scenes/1-Loading.unity

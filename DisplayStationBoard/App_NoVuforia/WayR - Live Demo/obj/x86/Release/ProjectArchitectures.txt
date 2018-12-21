@@ -1,0 +1,2 @@
+D:\dindc\WayR_final\DisplayStationBoard\App_NoVuforia\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\dindc\WayR_final\DisplayStationBoard\App_NoVuforia\WayR - Live Demo\WayR - Live Demo.csproj;x86

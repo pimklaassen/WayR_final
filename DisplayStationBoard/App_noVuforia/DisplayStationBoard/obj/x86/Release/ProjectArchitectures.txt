@@ -1,2 +1,0 @@
-D:\dindc\WayR\DisplayStationBoard\App_noVuforia\DisplayStationBoard\DisplayStationBoard.csproj;x86
-D:\dindc\WayR\DisplayStationBoard\App_noVuforia\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

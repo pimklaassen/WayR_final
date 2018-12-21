@@ -15857,12 +15857,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\dindc\\WayR\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectUniqueName": "D:\\dindc\\WayR_final\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "D:\\dindc\\WayR\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
-      "projectJsonPath": "D:\\dindc\\WayR\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+      "projectPath": "D:\\dindc\\WayR_final\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectJsonPath": "D:\\dindc\\WayR_final\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
       "packagesPath": "C:\\Users\\dindc\\.nuget\\packages\\",
-      "outputPath": "D:\\dindc\\WayR\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
+      "outputPath": "D:\\dindc\\WayR_final\\DisplayStationBoard\\App_withVuforia\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\dindc\\AppData\\Roaming\\NuGet\\NuGet.Config",

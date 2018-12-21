@@ -5,23 +5,22 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-DisplayStationBoard.sln: modified
-DisplayStationBoard\App.cs: 1E8947F31CA6B706DDF704FCEB20DF97
-DisplayStationBoard\DisplayStationBoard.csproj: 245A24DEB5121ACCE034862E7D7339B9
-DisplayStationBoard\DisplayStationBoard.csproj.user: modified
-DisplayStationBoard\Package.appxmanifest: 9F5B50A7360F805FEFD83C4D4B6863B8
-DisplayStationBoard\project.json: 1D02BC64BAC0D041019673A1C4C51737
-DisplayStationBoard\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
-DisplayStationBoard\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-DisplayStationBoard\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-DisplayStationBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-DisplayStationBoard\Assets\Square71x71Logo.scale-100.png: 71575A52833C5C0D61F820E2FB7135F6
-DisplayStationBoard\Assets\StoreLogo.scale-100.png: F13B08D9B42EAFAD6C80D61BA4403137
-DisplayStationBoard\Assets\StoreLogo.scale-125.png: 1C362BC75920CF410956245DC5A1156B
-DisplayStationBoard\Assets\StoreLogo.scale-150.png: 8D9035E964C2464FC80862DEE4B2D973
-DisplayStationBoard\Assets\StoreLogo.scale-200.png: D3572F1C965670A75CE87295A21B145D
-DisplayStationBoard\Assets\StoreLogo.scale-400.png: 7412B1F0A5155A33F0BF5FA668F7CE46
-DisplayStationBoard\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-DisplayStationBoard\obj\x86\Release\DisplayStationBoard.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
-DisplayStationBoard\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+WayR.sln: E43721D689E87C56014FA00C5D1D6DFE
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
+WayR\App.cs: 0B973614CA443DC25C0FC59DDFB81C73
+WayR\Package.appxmanifest: 34A1FB9DB8781C3702E52EABE2240D99
+WayR\project.json: 1D02BC64BAC0D041019673A1C4C51737
+WayR\WayR.csproj: 5D0D0B8640B9EC13B661303F6F9C4CBF
+WayR\WayR.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+WayR\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
+WayR\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+WayR\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+WayR\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+WayR\Assets\Square71x71Logo.scale-100.png: 71575A52833C5C0D61F820E2FB7135F6
+WayR\Assets\StoreLogo.scale-100.png: F13B08D9B42EAFAD6C80D61BA4403137
+WayR\Assets\StoreLogo.scale-125.png: 1C362BC75920CF410956245DC5A1156B
+WayR\Assets\StoreLogo.scale-150.png: 8D9035E964C2464FC80862DEE4B2D973
+WayR\Assets\StoreLogo.scale-200.png: D3572F1C965670A75CE87295A21B145D
+WayR\Assets\StoreLogo.scale-400.png: 7412B1F0A5155A33F0BF5FA668F7CE46
+WayR\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+WayR\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
