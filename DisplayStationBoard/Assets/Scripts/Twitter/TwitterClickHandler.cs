@@ -5,12 +5,14 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
+// Class that handles interaction with the Twitter News Panel
 public class TwitterClickHandler : MonoBehaviour
 {
     public GameObject tweetPanel;
     public GameObject tweetPrefab;
     public GameObject[] tweetbuttonlist = new GameObject[4];
 
+    // Make disabled containers for the display of the tweets. 
     public void Start()
     {
         int i = 0;
@@ -26,15 +28,20 @@ public class TwitterClickHandler : MonoBehaviour
         }
     }
 
+    // Handles clicking on the buttons that should display the different topics tweets
     public void OnClick()
     {
+        // Switches tweets based on the tag of the clicked button GameObject
         List<string> switchList = new List<string>();
         switch (EventSystem.current.currentSelectedGameObject.tag)
         {
             case "trump":
+                //Iterates through all the tweet lists each containing the tweets of one topic
                 foreach(List<string> tweets in Main.alltweets)
                 {
                     string[] parts = tweets[1].Split('*');
+
+                    // calls the function to update the tweet containers in the display with the tweets containing the right tag
                     if(parts[0] == "gislab")
                         updateButtons(tweets);
                 }
@@ -66,6 +73,7 @@ public class TwitterClickHandler : MonoBehaviour
         }
     }
 
+    // sets the text of in the tweet display containers to the text of the tweets, does some formating and enables the container
     void updateButtons (List<string> alltweets)
     {
         for (int i = 0; i < tweetbuttonlist.Length; i++)

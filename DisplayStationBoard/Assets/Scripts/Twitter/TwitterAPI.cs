@@ -1,3 +1,8 @@
+/* This class is an adapted class of a source that is not findable anymore. 
+ * It was part of a TwitterAPI demo for HoloLens.
+ * (See also: Report_GISLab_dindc_pimk.pdf  p.12 and reference [9])
+ */
+
 using UnityEngine;
 
 using System;
@@ -38,7 +43,7 @@ public class TwitterAPI : MonoBehaviour {
 
 	
     //===============================================================================================================
-    // by CedricDind
+    // Start of part that is adapted by CedricDind
     //===============================================================================================================
     public void UserTimelineTwitter(string twitterUser, string tweet_mode, Action<List<UserTimelineTwitterData>> callback)
     {
@@ -147,7 +152,9 @@ public class TwitterAPI : MonoBehaviour {
 
         return twitterDataList;
     }
-
+    
+    //===============================================================================================================
+    // End of part that is adapted by CedricDind
     //===============================================================================================================
 
     private WWW CreateTwitterAPIQuery(string twitterUrl, SortedDictionary<string, string> twitterParamsDictionary)
